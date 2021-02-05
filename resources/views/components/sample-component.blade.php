@@ -1,0 +1,1 @@
+<div>{{$nested_block_title}}</div>
